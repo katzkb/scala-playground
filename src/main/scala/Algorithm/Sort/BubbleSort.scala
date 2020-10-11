@@ -10,7 +10,7 @@ object BubbleSort {
   def bubbleSort(vec: Vector[Int]): Vector[Int] = {
 
     /**
-     * Sort vector for
+     * Sort vector
      * @param vec Target int-vector
      * @param cnt Number of swaps required
      * @param res result vector
